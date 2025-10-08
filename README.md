@@ -189,7 +189,7 @@ npx expo start --web
   - Mostrar/ocultar segundos
 - **Diseño**: Interfaz con tema oscuro y tipografía grande y legible
 
-![Reloj](src/screenshots/reloj.jpg)
+![Reloj](src/screenshots/Pantalla1.jpeg)
 
 ### Pantalla de Cronómetro (StopwatchScreen):
 - **Cronómetro de Precisión**: Medición con centésimas de segundo
@@ -201,7 +201,7 @@ npx expo start --web
 - **Registro de Vueltas**: Lista de tiempos parciales en orden inverso
 - **Formato de Tiempo**: MM:SS.CS (minutos:segundos.centésimas)
 
-![Cronómetro](src/screenshots/cronometro.jpg)
+![Cronómetro](src/screenshots/Pantalla2.jpeg)
 
 ### Pantalla de Alarma (AlarmScreen):
 - **Lista de Alarmas**: Visualización de todas las alarmas configuradas
@@ -221,7 +221,7 @@ npx expo start --web
   - Tono 4 - Natural
   - Tono 5 - Digital
 
-![Alarma](src/screenshots/alarma.jpg)
+![Alarma](src/screenshots/Pantalla3.jpeg)
 
 ### Pantalla de Temporizador (TimerScreen):
 - **Temporizadores Predefinidos**: 1, 3, 5, 10 y 15 minutos
@@ -240,7 +240,7 @@ npx expo start --web
   - 🔄 **Regresar**: Volver a lista de temporizadores
 - **Notificación**: Alerta cuando el tiempo termina
 
-![Temporizador](src/screenshots/temporizador.jpg)
+![Temporizador](src/screenshots/Pantalla4.jpeg)
 
 ### Características Técnicas:
 - **Navegación Bottom Tabs**: Acceso rápido a las 4 funciones principales
