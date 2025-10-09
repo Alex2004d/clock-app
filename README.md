@@ -3,10 +3,10 @@
 ## 1. Identificación del Proyecto
 
 - **Nombre de la App:** Clock App
-- **Asignatura/Profesor:** Desarrollo de Aplicaciones Móviles / [Tu Nombre del Profesor]
+- **Asignatura/Profesor:** Desarrollo de Aplicaciones Móviles / MC. Leonel Gonzalez Vidales
 - **Periodo/Fecha:** Octubre 2025
 - **Desarrollador:** Juan Alejandro Molina Damian 
-- **URL del Repositorio:** [Tu URL de GitHub]
+- **URL del Repositorio:** (https://github.com/Alex2004d/clock-app)
 
 ## 2. Descripción del Proyecto
 
@@ -106,7 +106,7 @@ clock-app/
 ### Instalación de Dependencias:
 ```bash
 # Clonar el repositorio
-git clone [tu-url-de-repositorio]
+git clone https://github.com/Alex2004d/clock-app
 cd clock-app
 
 # Instalar dependencias
